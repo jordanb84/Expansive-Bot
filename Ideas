@@ -1,0 +1,6 @@
+
+
+-An interval function could be added so each command
+can have an interval at which it can be used. This could be useful for
+commands that could cause load on the bot, such as spam. Allow 3 second
+intervals or something like that.

@@ -1,0 +1,3 @@
+Will contain classes to manage the permissions system. When a user attempts an
+admin or premium command, a class here will be called to check the database and
+find out whether or not the user has such permissions.
