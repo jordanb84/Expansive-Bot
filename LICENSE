@@ -1,3 +1,15 @@
+
+Skype4Java, the API used by this software is licensed under either the Apache License, 2.0
+or the Eclipse Public License 1.0.
+the Apache License - http://www.apache.org/licenses/LICENSE-2.0
+the Eclipse Public License - http://www.eclipse.org/legal/epl-v10.html
+
+The Expansive Bot source code, as a Derivative Work compiles with the conditions of such
+licenses, and is licensed under the MIT license, which is detailed below.
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Exilegl
 The MIT License (MIT)
 
 Copyright (c) 2015 Jordan
@@ -20,3 +32,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+If it is possible to provide credit to the author(s) of Expansive Bot,
+please add links to the Expansive Bot website (https://github.com/some1epic123/Expansive-Bot)
+in your web site or documents.
